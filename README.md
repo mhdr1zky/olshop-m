@@ -20,7 +20,7 @@ Aplikasi toko online berbasis web menggunakan framework CodeIgniter 3.
 File database ada di [assets/db/ci_shop.sql](./assets/db/ci_shop.sql)
 
 
-##COMING SOON
+## COMING SOON
 -ADD MODE TEMPLATE MOBILE APP FRAMEWORK7 OR BOOSTRAP MOBILE.
 -INTEGRASI MIDTRANS OR TRANSFER CHECK MANUAL.
 -ETALASE PRODUK DIGITAL DENGAN KEAMANAN NO DIRECT DOWNLOAD.
